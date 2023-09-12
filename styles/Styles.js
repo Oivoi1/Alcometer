@@ -72,6 +72,7 @@ export const Styles = StyleSheet.create({
     text:{
         padding: 10,
         margin: 10,
+        fontWeight: "bold",
     },
     textInput :{
       borderWidth: 1,
